@@ -1,0 +1,4 @@
+INSERT INTO employee (name, email, salary) VALUES
+('Sanju', 'sanju@gmail.com', 50000),
+('Rahul', 'rahul@gmail.com', 60000),
+('Anjali', 'anjali@gmail.com', 55000);
